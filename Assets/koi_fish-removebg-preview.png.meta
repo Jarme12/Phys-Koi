@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: becfb04b5d56312419e34890ed36eb6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2308629749874918066
+    second: koi_fish-removebg-preview_0
+  - first:
+      213: -7319105538764796664
+    second: koi_fish-removebg-preview_1
+  - first:
+      213: 4916017818148457583
+    second: koi_fish-removebg-preview_2
+  - first:
+      213: -9017777434762354339
+    second: koi_fish-removebg-preview_3
+  - first:
+      213: -2394457695567599401
+    second: koi_fish-removebg-preview_4
+  - first:
+      213: 4175493587045600694
+    second: koi_fish-removebg-preview_5
+  - first:
+      213: 832634840911179621
+    second: koi_fish-removebg-preview_6
+  - first:
+      213: 2846076427993889699
+    second: koi_fish-removebg-preview_7
+  - first:
+      213: 6425756061063995297
+    second: koi_fish-removebg-preview_8
+  - first:
+      213: 7976370122970905572
+    second: koi_fish-removebg-preview_9
+  - first:
+      213: 887859691511872673
+    second: koi_fish-removebg-preview_10
+  - first:
+      213: 3228884942879391188
+    second: koi_fish-removebg-preview_11
+  - first:
+      213: 2302595484005517299
+    second: koi_fish-removebg-preview_12
+  - first:
+      213: -1586722768171276215
+    second: koi_fish-removebg-preview_13
+  - first:
+      213: -18981343502070955
+    second: koi_fish-removebg-preview_14
+  - first:
+      213: 6870894197180735978
+    second: koi_fish-removebg-preview_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 302
+        width: 135
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d7ec0697916ffd0800000000000000
+      internalID: -2308629749874918066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 299
+        width: 133
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d84507a405d6a90800000000000000
+      internalID: -7319105538764796664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 303
+        width: 134
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cca30d824393440800000000000000
+      internalID: 4916017818148457583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 306
+        width: 131
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51e479833b6ad280800000000000000
+      internalID: -9017777434762354339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 206
+        width: 112
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d82ef9896d25ced0800000000000000
+      internalID: -2394457695567599401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 203
+        width: 114
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd46c17b4552f930800000000000000
+      internalID: 4175493587045600694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 206
+        width: 129
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fef10f9fc1e8b00800000000000000
+      internalID: 832634840911179621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 208
+        width: 127
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab303e9e6b4f7720800000000000000
+      internalID: 2846076427993889699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af5809a71fdc2950800000000000000
+      internalID: 6425756061063995297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 111
+        width: 129
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb38b0cd52c1be60800000000000000
+      internalID: 7976370122970905572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 113
+        width: 133
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acf3f27faf425c00800000000000000
+      internalID: 887859691511872673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 92
+        width: 151
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddfee88fbd4fcc20800000000000000
+      internalID: 3228884942879391188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 135
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7419d946674ff10800000000000000
+      internalID: 2302595484005517299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 16
+        width: 135
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94860269c04daf9e0800000000000000
+      internalID: -1586722768171276215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 18
+        width: 134
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b033391909cbff0800000000000000
+      internalID: -18981343502070955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koi_fish-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 17
+        width: 132
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae120486ed15a5f50800000000000000
+      internalID: 6870894197180735978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae3af1ffe6383fc4aad0ed28455ced07
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":165.0,"y":94.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      koi_fish-removebg-preview_0: -2308629749874918066
+      koi_fish-removebg-preview_1: -7319105538764796664
+      koi_fish-removebg-preview_10: 887859691511872673
+      koi_fish-removebg-preview_11: 3228884942879391188
+      koi_fish-removebg-preview_12: 2302595484005517299
+      koi_fish-removebg-preview_13: -1586722768171276215
+      koi_fish-removebg-preview_14: -18981343502070955
+      koi_fish-removebg-preview_15: 6870894197180735978
+      koi_fish-removebg-preview_2: 4916017818148457583
+      koi_fish-removebg-preview_3: -9017777434762354339
+      koi_fish-removebg-preview_4: -2394457695567599401
+      koi_fish-removebg-preview_5: 4175493587045600694
+      koi_fish-removebg-preview_6: 832634840911179621
+      koi_fish-removebg-preview_7: 2846076427993889699
+      koi_fish-removebg-preview_8: 6425756061063995297
+      koi_fish-removebg-preview_9: 7976370122970905572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

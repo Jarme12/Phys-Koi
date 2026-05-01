@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 6542fb700d6fe194499d8508031b3754
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8647144553990293839
+    second: whirpool-removebg-preview_0
+  - first:
+      213: -1482372688541249970
+    second: whirpool-removebg-preview_1
+  - first:
+      213: -1900417797359383356
+    second: whirpool-removebg-preview_2
+  - first:
+      213: 5579437105798777175
+    second: whirpool-removebg-preview_3
+  - first:
+      213: 8275363212657735429
+    second: whirpool-removebg-preview_4
+  - first:
+      213: 3472687054199137294
+    second: whirpool-removebg-preview_5
+  - first:
+      213: -4671878143296991088
+    second: whirpool-removebg-preview_6
+  - first:
+      213: 1414220229474526651
+    second: whirpool-removebg-preview_7
+  - first:
+      213: 6024770569473926078
+    second: whirpool-removebg-preview_8
+  - first:
+      213: 5612601195105641000
+    second: whirpool-removebg-preview_9
+  - first:
+      213: -7469569369738109144
+    second: whirpool-removebg-preview_10
+  - first:
+      213: 1967752663370646230
+    second: whirpool-removebg-preview_11
+  - first:
+      213: -4324018432933125919
+    second: whirpool-removebg-preview_12
+  - first:
+      213: 8755281635466726563
+    second: whirpool-removebg-preview_13
+  - first:
+      213: -3922115800148307740
+    second: whirpool-removebg-preview_14
+  - first:
+      213: 2729684390626967374
+    second: whirpool-removebg-preview_15
+  - first:
+      213: -598179879200717767
+    second: whirpool-removebg-preview_16
+  - first:
+      213: 7473441478979738385
+    second: whirpool-removebg-preview_17
+  - first:
+      213: -112332917626281916
+    second: whirpool-removebg-preview_18
+  - first:
+      213: 4789251722825006297
+    second: whirpool-removebg-preview_19
+  - first:
+      213: 3806085391177703056
+    second: whirpool-removebg-preview_20
+  - first:
+      213: -3485805546000928531
+    second: whirpool-removebg-preview_21
+  - first:
+      213: -4876081985015614392
+    second: whirpool-removebg-preview_22
+  - first:
+      213: -4896879423305785497
+    second: whirpool-removebg-preview_23
+  - first:
+      213: 7975249847124895860
+    second: whirpool-removebg-preview_24
+  - first:
+      213: -8222150688582931
+    second: whirpool-removebg-preview_25
+  - first:
+      213: -1898138669147827334
+    second: whirpool-removebg-preview_26
+  - first:
+      213: 8666048342416658422
+    second: whirpool-removebg-preview_27
+  - first:
+      213: -5950593933236371290
+    second: whirpool-removebg-preview_28
+  - first:
+      213: 2283085128808468042
+    second: whirpool-removebg-preview_29
+  - first:
+      213: 2822351902014782152
+    second: whirpool-removebg-preview_30
+  - first:
+      213: -9129614322657091347
+    second: whirpool-removebg-preview_31
+  - first:
+      213: -6292260789561526900
+    second: whirpool-removebg-preview_32
+  - first:
+      213: 6616029894948020079
+    second: whirpool-removebg-preview_33
+  - first:
+      213: -7129027328025053251
+    second: whirpool-removebg-preview_34
+  - first:
+      213: 7465296227101382454
+    second: whirpool-removebg-preview_35
+  - first:
+      213: -8605711778715560248
+    second: whirpool-removebg-preview_36
+  - first:
+      213: -6181523725772056893
+    second: whirpool-removebg-preview_37
+  - first:
+      213: -2331575231617672707
+    second: whirpool-removebg-preview_38
+  - first:
+      213: 6856569818211235681
+    second: whirpool-removebg-preview_39
+  - first:
+      213: -2214183320796699269
+    second: whirpool-removebg-preview_40
+  - first:
+      213: -7724341742199270709
+    second: whirpool-removebg-preview_41
+  - first:
+      213: -3299297720150986553
+    second: whirpool-removebg-preview_42
+  - first:
+      213: 935065002953632329
+    second: whirpool-removebg-preview_43
+  - first:
+      213: 7193329505908199460
+    second: whirpool-removebg-preview_44
+  - first:
+      213: -3252826462886356520
+    second: whirpool-removebg-preview_45
+  - first:
+      213: -6003360351331190860
+    second: whirpool-removebg-preview_46
+  - first:
+      213: 8938831487939037194
+    second: whirpool-removebg-preview_47
+  - first:
+      213: -3432256052945546107
+    second: whirpool-removebg-preview_48
+  - first:
+      213: -8350848885909541896
+    second: whirpool-removebg-preview_49
+  - first:
+      213: 4614750009637490214
+    second: whirpool-removebg-preview_50
+  - first:
+      213: 2308521664570101864
+    second: whirpool-removebg-preview_51
+  - first:
+      213: -7254371143997995296
+    second: whirpool-removebg-preview_52
+  - first:
+      213: -512439570021103780
+    second: whirpool-removebg-preview_53
+  - first:
+      213: -3988504925381912066
+    second: whirpool-removebg-preview_54
+  - first:
+      213: 7561312540116463484
+    second: whirpool-removebg-preview_55
+  - first:
+      213: -9013090649313270061
+    second: whirpool-removebg-preview_56
+  - first:
+      213: 975236634331079562
+    second: whirpool-removebg-preview_57
+  - first:
+      213: -6514171271579278027
+    second: whirpool-removebg-preview_58
+  - first:
+      213: -8754888013301875813
+    second: whirpool-removebg-preview_59
+  - first:
+      213: -8276162205721934364
+    second: whirpool-removebg-preview_60
+  - first:
+      213: -2048545304408391066
+    second: whirpool-removebg-preview_61
+  - first:
+      213: -2362766340068709839
+    second: whirpool-removebg-preview_62
+  - first:
+      213: 7398897265191653746
+    second: whirpool-removebg-preview_63
+  - first:
+      213: 5775152173144756139
+    second: whirpool-removebg-preview_64
+  - first:
+      213: 7655137810382921834
+    second: whirpool-removebg-preview_65
+  - first:
+      213: 3435183262309475281
+    second: whirpool-removebg-preview_66
+  - first:
+      213: 5585256131398809749
+    second: whirpool-removebg-preview_67
+  - first:
+      213: 6923477752929668959
+    second: whirpool-removebg-preview_68
+  - first:
+      213: 1631348487435495083
+    second: whirpool-removebg-preview_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whirpool-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b674f9b7db2ff780800000000000000
+      internalID: -8647144553990293839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whirpool-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 302
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e02cac4ed8d6be0800000000000000
+      internalID: -1482372688541249970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whirpool-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 302
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc4097051c50a5e0800000000000000
+      internalID: -1900417797359383356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whirpool-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75905c19c742e6d40800000000000000
+      internalID: 5579437105798777175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whirpool-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 151
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507bcc54ffef7d270800000000000000
+      internalID: 8275363212657735429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whirpool-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 151
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0423a90a76713030800000000000000
+      internalID: 3472687054199137294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whirpool-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0901fd2d4972a2fb0800000000000000
+      internalID: -4671878143296991088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whirpool-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5200c4ec150a310800000000000000
+      internalID: 1414220229474526651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whirpool-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3a8be89e84c9350800000000000000
+      internalID: 6024770569473926078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9c7c93f55982a794eb49c9a087700dc1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":183.0,"y":151.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      whirpool-removebg-preview_0: -8647144553990293839
+      whirpool-removebg-preview_1: -1482372688541249970
+      whirpool-removebg-preview_2: -1900417797359383356
+      whirpool-removebg-preview_3: 5579437105798777175
+      whirpool-removebg-preview_4: 8275363212657735429
+      whirpool-removebg-preview_5: 3472687054199137294
+      whirpool-removebg-preview_6: -4671878143296991088
+      whirpool-removebg-preview_7: 1414220229474526651
+      whirpool-removebg-preview_8: 6024770569473926078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
