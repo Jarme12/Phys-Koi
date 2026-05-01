@@ -16,5 +16,5 @@ When starting the game, the player presses the Play button to enter the main sce
 
 <img width="520" height="330" alt="image" src="https://github.com/user-attachments/assets/42762624-d4cc-4395-88b9-b120d5977ab1" />
 
-Essential
+Essentialy the game demostrates Newton's First and Third Laws through the interactions and mechanics. When the player moves as the fish in a straight line, it maintains a constant velocity unless acted upon by external forces(the objects in the pond), illustrating inertia. Objects in the pond respond ti collisions and pushes, showing action and reaction: when the fish applies some kind of force, the object puches back with equal magnitude to that of the initial collision, but in the opposite direction to that of the player. The whirlpool represents external forces acting on both the fish and objects of the pond, pulling them inward and altering their motion. Together, these mechanics serve as a simple but comprehensive explanation of these concepts and making it accessible to experience Newton's laws in action.
 
